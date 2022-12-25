@@ -10,3 +10,5 @@ Demo here: https://codex-prompt.netlify.app/
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
     "openai": "^3.1.0"
+
+![Alt text](/images/demo.png "Home Page")
