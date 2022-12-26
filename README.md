@@ -3,6 +3,12 @@ model to read and analyze code prompts
 
 Demo here: https://codex-prompt.netlify.app/
 
+Example prompts: 
+- "How do I write 'Hello, World!' in JavaScript?" 
+- "How do I fetch an api in react?"
+- "Translate this code <code> into <language>?" 
+
+
 ### Packages `npm install <module>`
 
     "cors": "^2.8.5",
