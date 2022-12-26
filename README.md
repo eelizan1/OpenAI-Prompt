@@ -6,7 +6,7 @@ Demo here: https://codex-prompt.netlify.app/
 Example prompts: 
 - "How do I write 'Hello, World!' in JavaScript?" 
 - "How do I fetch an api in react?"
-- "Translate this code <code> into <language>?" 
+- "Translate this code (insert code) into python?" 
 
 
 ### Packages `npm install <module>`
